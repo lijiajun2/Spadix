@@ -1,4 +1,4 @@
-module fdmax(addrh, addrv,
+module spadix(addrh, addrv,
     data_inout0, data_inout1, data_inout2, data_inout3, data_inout4, data_inout5, data_inout6, data_inout7,
     chip_enable,
     write_enable,

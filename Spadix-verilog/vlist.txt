@@ -1,4 +1,4 @@
-fdmax.v
+spadix.v
 pearray.v
 pe.v
 sram.v
